@@ -19,5 +19,10 @@
   "homepage": "https://github.com/huossan/ejercicio01-coursera#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
   }
 }
